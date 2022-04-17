@@ -15,13 +15,9 @@ I don't share much on any platform but feel free to contact me anywhere you want
 
 [![website](./img/globe-dark.svg)](https://ayoubmoussaid.live#gh-dark-mode-only)
 
-&nbsp;&nbsp;
-
 [![website](./img/twitter-light.svg)](https://twitter.com/ayoubmoussaid6#gh-light-mode-only)
 
 [![website](./img/twitter-dark.svg)](https://twitter.com/ayoubmoussaid6#gh-dark-mode-only)
-
-&nbsp;&nbsp;
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ayoub-moussaid/#gh-light-mode-only)
 
@@ -48,5 +44,4 @@ I don't share much on any platform but feel free to contact me anywhere you want
 
 <details>
 	<summary>:zap: Top Languages</summary>
-	<img  align="left"  alt="codeSTACKr's GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubmoussaid"  />
-<details>
+	<img  align="left"  alt="codeSTACKr's GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubmoussaid" />
