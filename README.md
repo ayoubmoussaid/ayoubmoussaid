@@ -5,7 +5,7 @@
 - 🔭 I am currently working on a personal 3D project, it is using this [3rd person controller](https://github.com/ayoubmoussaid/3rd_person_controller) as a start point.
 - 📝 On a side note, I love mobile development 📱.
 - 🎲 I am learning everything I don't know 😅!
-- 🥅 my goal for 2022: contribute to open source projects.
+- 🥅 my goal for 2023: contribute to open source projects.
 
 ### Connect with me:
 
